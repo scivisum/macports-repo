@@ -1,0 +1,5 @@
+salt 0
+salt-minion 994
+salt-master 1963
+salt-syndic 2932
+salt-api 3901
